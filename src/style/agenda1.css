@@ -17,12 +17,7 @@
   .red{
     background-color: #EB5757;
   }
-  .purple{
-    background-color: #9B51E0;
-  }
-  .blue{
-    background-color: #21A1C9;
-  }
+  
   .card .card_header .tittle,.card .card_header .id{
     display: flex;
     align-items: center;
