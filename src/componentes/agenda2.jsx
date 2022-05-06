@@ -10,10 +10,10 @@
     </div>
 </div>
 <div class="card_section">
-    <p>Descripcion de la card</p>
+    <p>description of what is done here</p>
 </div>
 <div class="card_footer">
-    <p>Mis Actualizaciones</p>
-    <p>14/07/2021</p>
+<p>last Updated</p>
+    <p>3/8/2020</p>
 </div>
 </div>
